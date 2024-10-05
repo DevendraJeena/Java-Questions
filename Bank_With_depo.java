@@ -1,3 +1,6 @@
+// Define class Bank with data members as Cust_name, Ac_no and balance.
+//  Use constructors and method withdraw and deposit. Print the balance according to operation.
+
 import java.util.*;
 
 class Bank_details{
@@ -46,7 +49,7 @@ class Bank_details{
 }
 
 
-public class Bank{
+public class Bank_With_depo{
 
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);

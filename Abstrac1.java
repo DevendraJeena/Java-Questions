@@ -1,3 +1,8 @@
+// Write a java program to create abstract class person derived two classes 
+// Employee and Worker from it. Use proper method to accept and display for the same.
+//  Employee(eno, ename, address), similar fields are worker.
+
+
 import java.util.Scanner;
 abstract class Person{
 
@@ -62,7 +67,7 @@ class Worker extends Person{
     }
 }
 
-public class Q12 {
+public class Abstrac1 {
     
     public static void main(String args[]){
 

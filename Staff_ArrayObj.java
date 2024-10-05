@@ -1,3 +1,5 @@
+
+
 import java.util.* ;
 
 class Staff_details{
@@ -27,7 +29,7 @@ class Staff_details{
 
 }
 
-public class Staff {
+public class Staff_ArrayObj {
     
     public static void main(String args[]){
         String name;

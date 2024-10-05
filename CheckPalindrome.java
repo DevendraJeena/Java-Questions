@@ -1,5 +1,7 @@
+// Write a Java program to check if a positive number is a palindrome or not
+
 import java.util.*;
-public class Ques12 {
+public class CheckPalindrome {
 
     public static void checkPalindrome(String s){
         boolean palindrome = false;

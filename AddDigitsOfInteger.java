@@ -1,5 +1,7 @@
+// Write a Java program to add all the digits of a given positive intege
+
 import java.util.*;
-public class Ques14 {
+public class AddDigitsOfInteger {
     
     public static int add(int a){
 

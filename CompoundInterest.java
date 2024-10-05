@@ -47,7 +47,7 @@ class Ci{
 
 }
 
-public class Compound {
+public class CompoundInterest {
     public static void main(String[] args) {
 
         Scanner sc =  new Scanner(System.in);

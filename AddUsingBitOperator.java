@@ -1,5 +1,7 @@
+// Write a Java program to add two numbers without using any arithmetic operators
+
 import java.util.*;
-public class Ques13 {
+public class AddUsingBitOperator {
     
     public static int addWithoutArthematic(int a , int b){
 
