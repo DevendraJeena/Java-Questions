@@ -1,4 +1,7 @@
-class Q1{
+    // Write a Java Program to accept two numbers and a character(+-*/) 
+    // from the command line argument and print the result according to character. (Use switch)
+
+class LineArgument1{
 
     public static void main(String[] args) {
         

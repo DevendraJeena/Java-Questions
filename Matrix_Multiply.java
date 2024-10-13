@@ -1,5 +1,7 @@
+// Write a java program to print multiplication of Matrix. 
+ 
  import java.util.*;
- class Q10{
+ class Matrix_Multiply{
 
     public static void main(String[] args) {
          System.out.println("enter no of rows in matrix1");

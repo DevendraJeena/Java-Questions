@@ -1,4 +1,6 @@
-public class Ques11 {
+// Write a Java program to count the number of even and odd elements in a given array
+
+public class CountEvenOdd {
 
    public static void countEvenOdd(int arr[]){
 

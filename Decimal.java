@@ -1,3 +1,5 @@
+// Write a Java program to convert a decimal number to binary numbers
+
 import java.util.*;
 
 public class Decimal {

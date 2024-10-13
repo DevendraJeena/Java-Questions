@@ -1,4 +1,7 @@
-public class Ques9 {
+// Write a Java program to compute the sum of the first 100 prime numbers
+
+
+public class first_hund_prime {
 
     public static int sumOfPrime(){
         int sum = 0;

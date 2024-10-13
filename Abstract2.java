@@ -1,3 +1,11 @@
+// Write a program Create an abstract class order having members id
+//  and description. Create two subclasses Purchase Order and SalesOrder
+//   with member customer name and vendor name respectively. Define methods
+//    accept and display in all classes. Create 5 objects each of Purchase Order
+//     and SalesOrder. Accept and display details
+
+
+
 import java.util.* ;
 abstract class Order{
 
@@ -60,7 +68,7 @@ class SalesOrder extends Order{
     }
 }
 
-public class abst {
+public class Abstract2 {
    
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);

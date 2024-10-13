@@ -16,7 +16,7 @@ class Person{
     public int getyearOfBirth(){
         return yearOfBirth;
     }
-
+    @Override
     public String toString(){
         return "name :" + name +", year of birth :"+ yearOfBirth ;
     }
@@ -34,7 +34,7 @@ class Student extends Person{
     public String getMajor(){
         return major ;
     }
-   
+    @Override
     public String toString(){
         return super.toString() +",major : "+ major ;
     }
@@ -51,13 +51,13 @@ class Instructor extends Person{
     public double getSalary(){
         return salary ;
     }
-
+    @Override
     public String toString(){
         return super.toString() + ", salary : "+ salary ;
     }
 }
 
-class Super{
+public  class SuperKeyword{
 
     public static void main(String args[]){
 

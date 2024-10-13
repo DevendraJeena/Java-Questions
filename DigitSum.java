@@ -1,3 +1,5 @@
+// Write a Java program and compute the sum of the digits of an integer
+
 import java.util.*;
 
 public class DigitSum {

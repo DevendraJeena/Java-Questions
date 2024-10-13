@@ -1,4 +1,7 @@
-public class Ques8 {
+// Write a Java program to print the even and odd numbers from 1 to 20 
+// by using call to two different methods belongs same super class
+
+public class Print_odd_even {
 
     public static void main(String[] args) {
         
